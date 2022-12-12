@@ -1,4 +1,4 @@
-- Hi, I’m Keith Poletti.
+Hi, I’m Keith Poletti 
 I am currently a grad student at UT Austin in CSEM program. I completed my bachelor's at University of Colorado Boulder studying Aerospace Engineering and Astrophysics.
 My research focuses on modelling of space debris and techniques for space object classification and tracking.
 Here are some of the past projects from my undergrad degree/research.
